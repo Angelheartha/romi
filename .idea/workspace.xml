@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rrrr/css/re.css" beforeDir="false" afterPath="$PROJECT_DIR$/rrrr/css/re.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rrrr/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/rrrr/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rrrr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/rrrr/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655131694211</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="d">
+      <created>1655297497659</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655297497659</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
