@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3261baaf-0b57-465f-9908-f88fba7dddf7" name="Default Changelist" comment="d" />
+    <list default="true" id="3261baaf-0b57-465f-9908-f88fba7dddf7" name="Default Changelist" comment="d">
+      <change beforePath="$PROJECT_DIR$/rrrr/css/re.css" beforeDir="false" afterPath="$PROJECT_DIR$/rrrr/css/re.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
